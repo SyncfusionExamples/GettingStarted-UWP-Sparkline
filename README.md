@@ -141,6 +141,7 @@ grid.Children.Add(sfLineSparkline);
 1. Open `GettingStarted.slnx` in Visual Studio.
 2. Build and run the project.
 3. The application will display a line sparkline chart rendered with the sample data.
+<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/bde42529-9504-4600-be5f-87f4063d4973" />
 
 ## Reference
 
